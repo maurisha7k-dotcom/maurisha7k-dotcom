@@ -20,7 +20,7 @@
 
 ### 💻 Languages and Tools:
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,react" />
 </p>
 
 ---
