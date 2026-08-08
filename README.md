@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maurisha</h1>
-<h3 align="center">A passionate CSE student exploring Web Development & Problem Solving 💻</h3>
+<h3 align="center">CSE student|Aspiring Software Developer|Learning,Building&Growing through Code</h3>
 
 ---
 
