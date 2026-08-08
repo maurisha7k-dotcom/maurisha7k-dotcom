@@ -5,8 +5,6 @@
 
 ### 🚀 Connect with me:
 <p align="center">
-
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/maurisha7k" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
